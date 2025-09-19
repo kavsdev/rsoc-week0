@@ -11,6 +11,7 @@
     - 4vCPU
 
 Config overview of vm:
+
 ![alt text](image.png)
 ### Tool installation
 **Prerequisite:** 
@@ -32,6 +33,7 @@ make
 sudo make install
 ```
 Checking installtion correctness:
+
 ![alt text](image-1.png)
 
 #### iverilog
@@ -39,6 +41,7 @@ Checking installtion correctness:
 sudo apt-get install iverilog 
 ```
 Checking installtion correctness:
+
 ![verifying if installation is succesfull](image-2.png)
 
 ### gtkwave
@@ -46,9 +49,11 @@ Checking installtion correctness:
 sudo apt install gtkwave 
 ```
 _Troubleshooting:_ 
+
 ![alt text](image-4.png)
 
 if this warning occurs, run `sudo apt install libcanberra-gtk-module libcanberra-gtk3-module`
 
 Checking installtion correctness:
+
 ![alt text](image-3.png)
