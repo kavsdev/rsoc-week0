@@ -45,7 +45,9 @@ Checking installtion correctness:
 ```bash
 sudo apt install gtkwave 
 ```
-_Troubleshooting:_ ![alt text](image-4.png)
+_Troubleshooting:_ 
+![alt text](image-4.png)
+
 if this warning occurs, run `sudo apt install libcanberra-gtk-module libcanberra-gtk3-module`
 
 Checking installtion correctness:
